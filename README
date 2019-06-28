@@ -1,4 +1,8 @@
-THERE ARE 2 BRANCHES :
+THERE ARE 3 BRANCHES :
 
 -PathFinding : contains the code of the pathfinding.
 -GetParked : contains the code that parks the car.
+
+[The merge of these two files hasn't been done totally yet]
+
+-Java-Interface : contains the Java Interface code.
