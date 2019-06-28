@@ -1,1 +1,4 @@
+THERE ARE 2 BRANCHES :
 
+-PathFinding : contains the code of the pathfinding.
+-GetParked : contains the code that parks the car.
